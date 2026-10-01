@@ -1,21 +1,27 @@
 <h1 align="center">Hi 👋, I'm Vandana Kumari</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">Software Developer · B.Tech CSE '26 (MIET Meerut) · Bengaluru</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vandana-2029&label=Profile%20views&color=0e75b6&style=flat" alt="vandana-2029" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vandana-2029&label=Profile%20views&color=0e75b6&style=flat" alt="vandana-2029" /> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence • DevOps • AWS Cloud Practitioner**
+I'm a computer science graduate who enjoys building secure, database-driven applications with Python, Flask and REST APIs. I'm looking for fresher software engineering roles.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vandana-2029?tab=repositories](https://github.com/Vandana-2029?tab=repositories)
+- 🎓 B.Tech in Computer Science, Meerut Institute of Engineering & Technology (2022 - 2026)
+- ☁️ AWS Certified Cloud Practitioner (2026)
+- 🌱 Currently exploring **DevOps (Docker, Linux)** and **applied AI**
+- 💬 Ask me about **Python, Flask & REST APIs • C++, Java • React.js • SQL & MongoDB • DSA**
+- 📫 How to reach me: **k.vandana2468@gmail.com**
+- 📄 Resume: [Google Drive](https://drive.google.com/file/d/16H16AUg810znHDBwaIpAGie_oUbdBH1j/view?usp=sharing)
 
-- 💬 Ask me about **C, C++, Python • Web Development • SQL & DBMS • Machine Learning Basics • Data Analytics**
+## 🚀 Featured Projects
 
-- 📫 How to reach me **k.vandana2468@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/16H16AUg810znHDBwaIpAGie_oUbdBH1j/view?usp=sharing](https://drive.google.com/file/d/16H16AUg810znHDBwaIpAGie_oUbdBH1j/view?usp=sharing)
+- **[Ear Biometric](https://github.com/Vandana-2029/ear-biometric)** (Python, OpenCV, Flask): biometric authentication using ear image feature extraction, with Flask REST APIs for registration, authentication and image upload, and category-based image storage for faster feature retrieval.
+- **[Automated Parking](https://github.com/Vandana-2029/Automated_Parking)** (Python, OpenCV): detects occupied parking slots in real time and recommends the nearest free space.
+- **[Image LSB Steganography](https://github.com/Vandana-2029/image-lsb-steganography)** (Python): hides messages inside images using least-significant-bit steganography.
+- **[AI Summarized Meeting Notes](https://github.com/Vandana-2029/AI-Summarized-Meeting-Notes)**: AI project that summarizes meeting notes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vandana kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vandana kumari" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vandana-kumari1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/temari_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="temari_20" height="30" width="40" /></a>
 </p>
 
